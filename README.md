@@ -1,0 +1,10 @@
+# 'mlda_dataset_original' Package
+
+The `mlda_dataset_original` is dataset for learning MLDA.
+
+*   Maintainer: Shoichi Hasegawa ([hasegawa.shoichi@em.ci.ritsumei.ac.jp](mailto:hasegawa.shoichi@em.ci.ritsumei.ac.jp)).
+*   Author: Shoichi Hasegawa ([hasegawa.shoichi@em.ci.ritsumei.ac.jp](mailto:hasegawa.shoichi@em.ci.ritsumei.ac.jp)).
+
+
+**Content:**
+
